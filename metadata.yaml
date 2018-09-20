@@ -1,0 +1,45 @@
+_repo: Evenings-at-Home-Or-The-Juvenile-Budget-Opened_53323
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Aikin, John
+    aliases:
+    - Aikin, J. (John)
+    - Aiken, John
+    - Aikin, Dr., (John)
+    birthdate: 1747
+    deathdate: 1822
+    gutenberg_agent_id: '44599'
+    url: http://www.gutenberg.org/2009/agents/44599
+  - agent_name: Barbauld, Mrs. (Anna Letitia)
+    aliases:
+    - Barbauld, Anna Lætitia
+    - Aikin, Anna Laetitia
+    - Barbauld, A. L. (Anna Letitia)
+    - Aikin, Anna Lætitia
+    - Barbauld, Anna Laetitia
+    - Barbauld, Anna Letitia
+    birthdate: 1743
+    deathdate: 1825
+    gutenberg_agent_id: '5368'
+    url: http://www.gutenberg.org/2009/agents/5368
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Laetitia_Barbauld
+description: ''
+gutenberg_issued: '2016-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53323'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dialogues'
+- !lcsh 'Children -- Conduct of life -- Juvenile literature'
+- !lcsh 'Children''s stories'
+- !lcsh 'Children''s poetry'
+- !lcsh 'Conduct of life -- Juvenile literature'
+- !lcc 'PZ'
+- GITenberg
+title: Evenings at Home; Or, The Juvenile Budget Opened
+url: http://www.gutenberg.org/ebooks/53323
